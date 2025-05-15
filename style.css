@@ -7,8 +7,9 @@
   --primary-color: #11a9e0;
   --secondary-color: #333;
   --light-font-color: #888;
-  --light-color: #fafafa;
   --gradient-color: linear-gradient(#00ff7f, #00bbef);
+
+  --background-primary: #fafafa;
 }
 
 body {
